@@ -1,5 +1,4 @@
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main4 {
@@ -8,6 +7,7 @@ public class Main4 {
         while (fileScanner.hasNextInt()) {
             int number = fileScanner.nextInt();
             if (number > 0) {
+                fileScanner.close();
                 throw new Exception("Found a positive number: " + number);
             }
         }
