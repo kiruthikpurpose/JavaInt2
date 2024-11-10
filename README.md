@@ -8,8 +8,6 @@ This repository contains all the solved practice programs for the Java Internal 
 - Passing Objects as Arguments
 - Returning Objects
 
-### Unit 3: Exception Handling and Multithreading (Days 10-12)
-
 #### Day 10: Exception Handling ⚠️
 - Introduction to Exceptions
 - Try Block
@@ -30,15 +28,11 @@ This repository contains all the solved practice programs for the Java Internal 
 - Wrapper Classes
 - Autoboxing
 
-### Unit 4: String Handling (Day 13)
-
 #### Day 13: String Handling 📝
 - Introduction to Strings
 - Mutable and Immutable Strings
 - String, StringBuffer, and StringBuilder
 - File Handling
-
-### Unit 5: Collections (Day 14)
 
 #### Day 14: Collections 📚
 - Collection Framework
