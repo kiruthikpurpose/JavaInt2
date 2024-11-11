@@ -11,5 +11,6 @@ public class WrapperClass2 {
         } catch (NumberFormatException e) {
             System.out.println("The string cannot be converted to a double.");
         }
+        scanner.close();
     }
 }
