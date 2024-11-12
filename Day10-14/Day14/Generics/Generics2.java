@@ -1,4 +1,4 @@
-public class Generics2 {
+public class Generics2<T> {
     public static <T> void printArray(T[] array) {
         for (T element : array) {
             System.out.print(element + " ");
